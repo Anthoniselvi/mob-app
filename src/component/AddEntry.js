@@ -21,8 +21,6 @@ function AddEntry() {
   }
   function handleSubmit(event) {
     event.preventDefault();
-    // submitToApi(formData)
-    console.log(formData);
   }
   return (
     <div className="entry-container">

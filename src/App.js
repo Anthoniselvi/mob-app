@@ -15,7 +15,6 @@ function App() {
   // return CreateEvent();
   // return AddEntry();
   // return EntryList();
-
   // return (
   //   <Router>
   //     {/* <div className="container"> */}
